@@ -10,5 +10,6 @@ public class CMethod {
 
     public static void main(String[] args) {
             ¥Ú”°();
+            System.out.println(111);
     }
 }
